@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #333;
+  color: snow;
+  text-align: center;
+}
+
+.menor {
+  color: #bd1c1c;
+}
+
+.mayor {
+  color: limegreen;
+}
+
+button {
+  margin: 0px 0.5rem;
+}
